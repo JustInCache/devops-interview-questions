@@ -1,4 +1,4 @@
-# DevOps Interview Questions [Updated December 2025] 🔥
+# DevOps Interview Questions [Updated Dec 2025] 🔥
 
 #### Updates 🔥
 - [12/2025] Added scenario-based questions
