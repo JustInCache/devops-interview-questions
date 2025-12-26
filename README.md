@@ -1,7 +1,9 @@
-# DevOps Interview Questions [Updated July 2025] 🔥
+# DevOps Interview Questions [Updated December 2025] 🔥
 
 #### Updates 🔥
-- [7/2025] Added advanced scenario-based questions across all DevOps domains
+- [12/2025] Added scenario-based questions
+- [9/2025] Added some questions frequently asked in MNC Interviews
+- [7/2025] Added advanced questions across all DevOps domains
 - [6/2025] Included real-world troubleshooting scenarios from top tech companies
 - [5/2025] Added GitOps, Platform Engineering, and SRE-focused questions
 
